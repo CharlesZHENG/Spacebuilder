@@ -7,6 +7,7 @@ namespace Web
 {
     public partial class _Default : Page
     {
+        //HolyShit
         protected void Page_PreInit(object sender, System.EventArgs e)
         {
             int iisVersion = 6;

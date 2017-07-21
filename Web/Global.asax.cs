@@ -29,6 +29,7 @@ namespace Web
 
     public class MvcApplication : System.Web.HttpApplication
     {
+        //
         /// <summary>
         /// 应用程序启动时执行的事件
         /// </summary>
